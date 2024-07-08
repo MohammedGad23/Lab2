@@ -8,6 +8,7 @@
 
 # checkout without commit 
 >> will use git stash befor checkout branch
+>> git stash 
 
 
 # tages list 
@@ -16,3 +17,7 @@
 # delete tags from local and remote 
 >> local -> git tag -d v1.7
 >> remote -> git push --delete origin v1.7
+
+# Add image to README 
+
+![Alt Text](addImage.jpg)
